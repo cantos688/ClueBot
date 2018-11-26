@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "3ea0cc34f6cc29e9450617609d0c9f4fae33d406"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ClueBot/1.0.0": {
+        "dependencies": {
+          "Microsoft.ML.Probabilistic": "0.3.1810.501"
+        },
+        "runtime": {
+          "ClueBot.dll": {}
+        }
+      },
+      "Microsoft.ML.Probabilistic/0.3.1810.501": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.ML.Probabilistic.dll": {
+            "assemblyVersion": "0.3.1810.501",
+            "fileVersion": "0.3.1810.501"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClueBot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ML.Probabilistic/0.3.1810.501": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t1KKULL0Pxbs9oCI+7LAP3OMYOQhkbW+ICj3Q0giySSHKBqZeCd0hvDoStRP+kIHG0+W6I8dbFDZSzhOk6ZR9Q==",
+      "path": "microsoft.ml.probabilistic/0.3.1810.501",
+      "hashPath": "microsoft.ml.probabilistic.0.3.1810.501.nupkg.sha512"
+    }
+  }
+}

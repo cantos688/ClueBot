@@ -1,0 +1,8 @@
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\bin\Debug\netcoreapp2.1\ClueBot.deps.json
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\bin\Debug\netcoreapp2.1\ClueBot.runtimeconfig.json
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\bin\Debug\netcoreapp2.1\ClueBot.runtimeconfig.dev.json
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\bin\Debug\netcoreapp2.1\ClueBot.dll
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\obj\Debug\netcoreapp2.1\ClueBot.csprojAssemblyReference.cache
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\obj\Debug\netcoreapp2.1\ClueBot.csproj.CoreCompileInputs.cache
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\obj\Debug\netcoreapp2.1\ClueBot.AssemblyInfoInputs.cache
+C:\Users\canto\Documents\Visual Studio 2017\Projects\ClueBot\ClueBot\obj\Debug\netcoreapp2.1\ClueBot.AssemblyInfo.cs
